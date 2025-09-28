@@ -1,4 +1,4 @@
-IELTS Institute Homepage (React + Tailwind)
+## IELTS Institute Homepage (React + Tailwind)
 
 A modern and responsive React.js homepage for a fictional IELTS Institute.
 This project focuses on clean UI, modular components, and responsiveness across desktop and mobile devices.
